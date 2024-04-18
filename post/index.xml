@@ -323,12 +323,22 @@
 </description>
         </item>
         <item>
+        <title>学习经验分享</title>
+        <link>https://5i-tomato.github.io/p/learning-experience/</link>
+        <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://5i-tomato.github.io/p/learning-experience/</guid>
+        <description>&lt;p&gt;+++&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Hello, World!</title>
         <link>https://5i-tomato.github.io/p/hello-world/</link>
         <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
         
         <guid>https://5i-tomato.github.io/p/hello-world/</guid>
-        <description>&lt;img src="https://5i-tomato.github.io/p/hello-world/1.jpg" alt="Featured image of post Hello, World!" /&gt;</description>
+        <description>&lt;img src="https://5i-tomato.github.io/p/hello-world/1.jpg" alt="Featured image of post Hello, World!" /&gt;&lt;p&gt;Hello, world!&lt;/p&gt;
+</description>
         </item>
         
     </channel>

@@ -10,6 +10,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="https://5i-tomato.github.io/ja/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://5i-tomato.github.io/en/categories/"
                 />
@@ -22,6 +27,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="https://5i-tomato.github.io/ja/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://5i-tomato.github.io/en/tags/"
                 />
@@ -31,6 +41,11 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://5i-tomato.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://5i-tomato.github.io/ja/"
                 />
     <xhtml:link
                 rel="alternate"

@@ -11,6 +11,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="https://5i-tomato.github.io/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://5i-tomato.github.io/"
                 />
@@ -21,6 +26,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://5i-tomato.github.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://5i-tomato.github.io/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -49,12 +59,26 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="https://5i-tomato.github.io/ja/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://5i-tomato.github.io/tags/"
                 />
   </url><url>
     <loc>https://5i-tomato.github.io/tags/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://5i-tomato.github.io/tags/%E7%BB%8F%E9%AA%8C/</loc>
+    <lastmod>2020-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://5i-tomato.github.io/tags/%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2020-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://5i-tomato.github.io/p/learning-experience/</loc>
+    <lastmod>2020-04-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://5i-tomato.github.io/p/hello-world/</loc>
     <lastmod>2020-03-17T00:00:00+00:00</lastmod>
