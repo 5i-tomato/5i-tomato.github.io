@@ -20,6 +20,24 @@
                 href="https://5i-tomato.github.io/"
                 />
   </url><url>
+    <loc>https://5i-tomato.github.io/categories/</loc>
+    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://5i-tomato.github.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://5i-tomato.github.io/ja/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://5i-tomato.github.io/categories/"
+                />
+  </url><url>
     <loc>https://5i-tomato.github.io/tags/git/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -50,23 +68,8 @@
     <loc>https://5i-tomato.github.io/tags/%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://5i-tomato.github.io/categories/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://5i-tomato.github.io/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://5i-tomato.github.io/ja/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://5i-tomato.github.io/categories/"
-                />
+    <loc>https://5i-tomato.github.io/categories/%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://5i-tomato.github.io/tags/minecraft/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
