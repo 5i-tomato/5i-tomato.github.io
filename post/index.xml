@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on Tomato</title>
+        <title>Posts on 番茄炒西红柿</title>
         <link>https://5i-tomato.github.io/post/</link>
-        <description>Recent content in Posts on Tomato</description>
+        <description>Recent content in Posts on 番茄炒西红柿</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en</language>
+        <language>zh-cn</language>
         <copyright>Tomato</copyright>
         <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://5i-tomato.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Minecraft 教程</title>
-        <link>https://5i-tomato.github.io/p/test-chinese/</link>
+        <link>https://5i-tomato.github.io/p/minecraft-tutorial/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
         
-        <guid>https://5i-tomato.github.io/p/test-chinese/</guid>
-        <description>&lt;h1 id=&#34;minecraft-java-edition基础教程&#34;&gt;
-    &lt;a href=&#34;#minecraft-java-edition%e5%9f%ba%e7%a1%80%e6%95%99%e7%a8%8b&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
-    Minecraft: Java Edition基础教程
+        <guid>https://5i-tomato.github.io/p/minecraft-tutorial/</guid>
+        <description>&lt;img src="https://5i-tomato.github.io/p/minecraft-tutorial/wallpaper_minecraft_bedrock_edition_2560x1440.png" alt="Featured image of post Minecraft 教程" /&gt;&lt;h1 id=&#34;minecraft教程&#34;&gt;
+    &lt;a href=&#34;#minecraft%e6%95%99%e7%a8%8b&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    Minecraft教程
 &lt;/h1&gt;&lt;blockquote&gt;
 &lt;p&gt;Statement：&lt;/p&gt;
 &lt;p&gt;&lt;font color=red&gt;&lt;em&gt;&lt;strong&gt;请支持正版！！！&lt;/strong&gt;&lt;/em&gt;&lt;/font&gt;&lt;/p&gt;
@@ -57,10 +57,10 @@
 &lt;li&gt;
 &lt;p&gt;第三方外置登录（使用第三方皮肤站，如Littleskin的验证服务器进行登录验证，属于非正版）&lt;/p&gt;
 &lt;p&gt;下面是第三方登录的图解教程（LittleSkin与PCL2启动器为例）：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://5i-tomato.github.io/p/test-chinese/5.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://5i-tomato.github.io/p/minecraft-tutorial/5.png&#34;
 	width=&#34;2560&#34;
 	height=&#34;1528&#34;
-	srcset=&#34;https://5i-tomato.github.io/p/test-chinese/5_hu6130338cf61962f948c72769c7c90fee_4576730_480x0_resize_box_3.png 480w, https://5i-tomato.github.io/p/test-chinese/5_hu6130338cf61962f948c72769c7c90fee_4576730_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://5i-tomato.github.io/p/minecraft-tutorial/5_hu6130338cf61962f948c72769c7c90fee_4576730_480x0_resize_box_3.png 480w, https://5i-tomato.github.io/p/minecraft-tutorial/5_hu6130338cf61962f948c72769c7c90fee_4576730_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -69,10 +69,10 @@
 		data-flex-basis=&#34;402px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://5i-tomato.github.io/p/test-chinese/6.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://5i-tomato.github.io/p/minecraft-tutorial/6.png&#34;
 	width=&#34;2560&#34;
 	height=&#34;1529&#34;
-	srcset=&#34;https://5i-tomato.github.io/p/test-chinese/6_hu39fb0b63bbde3e2abad7862cb520091b_432690_480x0_resize_box_3.png 480w, https://5i-tomato.github.io/p/test-chinese/6_hu39fb0b63bbde3e2abad7862cb520091b_432690_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://5i-tomato.github.io/p/minecraft-tutorial/6_hu39fb0b63bbde3e2abad7862cb520091b_432690_480x0_resize_box_3.png 480w, https://5i-tomato.github.io/p/minecraft-tutorial/6_hu39fb0b63bbde3e2abad7862cb520091b_432690_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -81,10 +81,10 @@
 		data-flex-basis=&#34;401px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://5i-tomato.github.io/p/test-chinese/7.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://5i-tomato.github.io/p/minecraft-tutorial/7.png&#34;
 	width=&#34;2560&#34;
 	height=&#34;1528&#34;
-	srcset=&#34;https://5i-tomato.github.io/p/test-chinese/7_hucf35ce249023db4b4d69e69f68f28c39_330790_480x0_resize_box_3.png 480w, https://5i-tomato.github.io/p/test-chinese/7_hucf35ce249023db4b4d69e69f68f28c39_330790_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://5i-tomato.github.io/p/minecraft-tutorial/7_hucf35ce249023db4b4d69e69f68f28c39_330790_480x0_resize_box_3.png 480w, https://5i-tomato.github.io/p/minecraft-tutorial/7_hucf35ce249023db4b4d69e69f68f28c39_330790_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -93,10 +93,10 @@
 		data-flex-basis=&#34;402px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://5i-tomato.github.io/p/test-chinese/8.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://5i-tomato.github.io/p/minecraft-tutorial/8.png&#34;
 	width=&#34;2560&#34;
 	height=&#34;1518&#34;
-	srcset=&#34;https://5i-tomato.github.io/p/test-chinese/8_hu7acb49c6da29efee9b654999634e2156_717261_480x0_resize_box_3.png 480w, https://5i-tomato.github.io/p/test-chinese/8_hu7acb49c6da29efee9b654999634e2156_717261_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://5i-tomato.github.io/p/minecraft-tutorial/8_hu7acb49c6da29efee9b654999634e2156_717261_480x0_resize_box_3.png 480w, https://5i-tomato.github.io/p/minecraft-tutorial/8_hu7acb49c6da29efee9b654999634e2156_717261_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -105,10 +105,10 @@
 		data-flex-basis=&#34;404px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://5i-tomato.github.io/p/test-chinese/9.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://5i-tomato.github.io/p/minecraft-tutorial/9.png&#34;
 	width=&#34;1915&#34;
 	height=&#34;1113&#34;
-	srcset=&#34;https://5i-tomato.github.io/p/test-chinese/9_hu0ddbd5003d260ff7894f8359180fe437_575764_480x0_resize_box_3.png 480w, https://5i-tomato.github.io/p/test-chinese/9_hu0ddbd5003d260ff7894f8359180fe437_575764_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://5i-tomato.github.io/p/minecraft-tutorial/9_hu0ddbd5003d260ff7894f8359180fe437_575764_480x0_resize_box_3.png 480w, https://5i-tomato.github.io/p/minecraft-tutorial/9_hu0ddbd5003d260ff7894f8359180fe437_575764_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -128,10 +128,10 @@
     三、游戏下载
 &lt;/h2&gt;&lt;p&gt;在此我以Plain Craft Launcher 2 启动器为例。&lt;/p&gt;
 &lt;p&gt;操作方式如下图：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://5i-tomato.github.io/p/test-chinese/1.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://5i-tomato.github.io/p/minecraft-tutorial/1.png&#34;
 	width=&#34;1928&#34;
 	height=&#34;1152&#34;
-	srcset=&#34;https://5i-tomato.github.io/p/test-chinese/1_hu33201112e54a5cfd79c60298a9ad28c9_721720_480x0_resize_box_3.png 480w, https://5i-tomato.github.io/p/test-chinese/1_hu33201112e54a5cfd79c60298a9ad28c9_721720_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://5i-tomato.github.io/p/minecraft-tutorial/1_hu33201112e54a5cfd79c60298a9ad28c9_721720_480x0_resize_box_3.png 480w, https://5i-tomato.github.io/p/minecraft-tutorial/1_hu33201112e54a5cfd79c60298a9ad28c9_721720_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -140,10 +140,10 @@
 		data-flex-basis=&#34;401px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://5i-tomato.github.io/p/test-chinese/2.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://5i-tomato.github.io/p/minecraft-tutorial/2.png&#34;
 	width=&#34;1928&#34;
 	height=&#34;1152&#34;
-	srcset=&#34;https://5i-tomato.github.io/p/test-chinese/2_hu3a2480d9518df206c75b350fb91110b5_224395_480x0_resize_box_3.png 480w, https://5i-tomato.github.io/p/test-chinese/2_hu3a2480d9518df206c75b350fb91110b5_224395_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://5i-tomato.github.io/p/minecraft-tutorial/2_hu3a2480d9518df206c75b350fb91110b5_224395_480x0_resize_box_3.png 480w, https://5i-tomato.github.io/p/minecraft-tutorial/2_hu3a2480d9518df206c75b350fb91110b5_224395_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -152,10 +152,10 @@
 		data-flex-basis=&#34;401px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://5i-tomato.github.io/p/test-chinese/3.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://5i-tomato.github.io/p/minecraft-tutorial/3.png&#34;
 	width=&#34;1928&#34;
 	height=&#34;1152&#34;
-	srcset=&#34;https://5i-tomato.github.io/p/test-chinese/3_huf16380e458a8385e01087fcf3586ed04_294040_480x0_resize_box_3.png 480w, https://5i-tomato.github.io/p/test-chinese/3_huf16380e458a8385e01087fcf3586ed04_294040_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://5i-tomato.github.io/p/minecraft-tutorial/3_huf16380e458a8385e01087fcf3586ed04_294040_480x0_resize_box_3.png 480w, https://5i-tomato.github.io/p/minecraft-tutorial/3_huf16380e458a8385e01087fcf3586ed04_294040_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -164,10 +164,10 @@
 		data-flex-basis=&#34;401px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://5i-tomato.github.io/p/test-chinese/4.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://5i-tomato.github.io/p/minecraft-tutorial/4.png&#34;
 	width=&#34;1650&#34;
 	height=&#34;1026&#34;
-	srcset=&#34;https://5i-tomato.github.io/p/test-chinese/4_hucb241e43546d11cf97415521f5491e01_160614_480x0_resize_box_3.png 480w, https://5i-tomato.github.io/p/test-chinese/4_hucb241e43546d11cf97415521f5491e01_160614_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://5i-tomato.github.io/p/minecraft-tutorial/4_hucb241e43546d11cf97415521f5491e01_160614_480x0_resize_box_3.png 480w, https://5i-tomato.github.io/p/minecraft-tutorial/4_hucb241e43546d11cf97415521f5491e01_160614_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -262,10 +262,10 @@
 &lt;li&gt;
 &lt;p&gt;正版用户可以直接前往 Minecraft 官方网站 或者 官方启动器更改皮肤。&lt;/p&gt;
 &lt;p&gt;第三方登录可以在所属皮肤站更改皮肤。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://5i-tomato.github.io/p/test-chinese/11.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://5i-tomato.github.io/p/minecraft-tutorial/11.png&#34;
 	width=&#34;1933&#34;
 	height=&#34;1131&#34;
-	srcset=&#34;https://5i-tomato.github.io/p/test-chinese/11_hu7621562c0e02a63e4628b849b1006d79_220231_480x0_resize_box_3.png 480w, https://5i-tomato.github.io/p/test-chinese/11_hu7621562c0e02a63e4628b849b1006d79_220231_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://5i-tomato.github.io/p/minecraft-tutorial/11_hu7621562c0e02a63e4628b849b1006d79_220231_480x0_resize_box_3.png 480w, https://5i-tomato.github.io/p/minecraft-tutorial/11_hu7621562c0e02a63e4628b849b1006d79_220231_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -274,10 +274,10 @@
 		data-flex-basis=&#34;410px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://5i-tomato.github.io/p/test-chinese/10.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://5i-tomato.github.io/p/minecraft-tutorial/10.png&#34;
 	width=&#34;2560&#34;
 	height=&#34;1359&#34;
-	srcset=&#34;https://5i-tomato.github.io/p/test-chinese/10_hu3f69367f6b082dbb564a3e5ac7b6a96f_519049_480x0_resize_box_3.png 480w, https://5i-tomato.github.io/p/test-chinese/10_hu3f69367f6b082dbb564a3e5ac7b6a96f_519049_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://5i-tomato.github.io/p/minecraft-tutorial/10_hu3f69367f6b082dbb564a3e5ac7b6a96f_519049_480x0_resize_box_3.png 480w, https://5i-tomato.github.io/p/minecraft-tutorial/10_hu3f69367f6b082dbb564a3e5ac7b6a96f_519049_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -300,10 +300,10 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;目前最常见的披风主要有三个。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://5i-tomato.github.io/p/test-chinese/12.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://5i-tomato.github.io/p/minecraft-tutorial/12.png&#34;
 	width=&#34;1993&#34;
 	height=&#34;797&#34;
-	srcset=&#34;https://5i-tomato.github.io/p/test-chinese/12_hu060fa00a5397b853f96bc1537d90ded2_334995_480x0_resize_box_3.png 480w, https://5i-tomato.github.io/p/test-chinese/12_hu060fa00a5397b853f96bc1537d90ded2_334995_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://5i-tomato.github.io/p/minecraft-tutorial/12_hu060fa00a5397b853f96bc1537d90ded2_334995_480x0_resize_box_3.png 480w, https://5i-tomato.github.io/p/minecraft-tutorial/12_hu060fa00a5397b853f96bc1537d90ded2_334995_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -321,6 +321,14 @@
     六、游玩教程
 &lt;/h2&gt;&lt;p&gt;未完待续&lt;/p&gt;
 </description>
+        </item>
+        <item>
+        <title>Hello, World!</title>
+        <link>https://5i-tomato.github.io/p/hello-world/</link>
+        <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://5i-tomato.github.io/p/hello-world/</guid>
+        <description>&lt;img src="https://5i-tomato.github.io/p/hello-world/1.jpg" alt="Featured image of post Hello, World!" /&gt;</description>
         </item>
         
     </channel>

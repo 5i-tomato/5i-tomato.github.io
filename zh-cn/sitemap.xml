@@ -2,64 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://5i-tomato.github.io/zh-cn/</loc>
+    <loc>https://5i-tomato.github.io/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://5i-tomato.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
                 href="https://5i-tomato.github.io/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://5i-tomato.github.io/zh-cn/"
-                />
   </url><url>
-    <loc>https://5i-tomato.github.io/zh-cn/categories/</loc>
+    <loc>https://5i-tomato.github.io/categories/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://5i-tomato.github.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
                 href="https://5i-tomato.github.io/categories/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://5i-tomato.github.io/zh-cn/categories/"
-                />
   </url><url>
-    <loc>https://5i-tomato.github.io/zh-cn/page/</loc>
+    <loc>https://5i-tomato.github.io/tags/minecraft/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://5i-tomato.github.io/categories/minecraft/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://5i-tomato.github.io/p/minecraft-tutorial/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://5i-tomato.github.io/post/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://5i-tomato.github.io/tags/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://5i-tomato.github.io/page/"
+                href="https://5i-tomato.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://5i-tomato.github.io/zh-cn/page/"
-                />
-  </url><url>
-    <loc>https://5i-tomato.github.io/zh-cn/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="https://5i-tomato.github.io/tags/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://5i-tomato.github.io/zh-cn/tags/"
-                />
   </url><url>
-    <loc>https://5i-tomato.github.io/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://5i-tomato.github.io/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://5i-tomato.github.io/zh-cn/%E5%85%B3%E4%BA%8E/"
-                />
+    <loc>https://5i-tomato.github.io/tags/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://5i-tomato.github.io/p/hello-world/</loc>
+    <lastmod>2020-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://5i-tomato.github.io/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://5i-tomato.github.io/page/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://5i-tomato.github.io/links/</loc>
+  </url><url>
+    <loc>https://5i-tomato.github.io/search/</loc>
+  </url><url>
+    <loc>https://5i-tomato.github.io/%E5%85%B3%E4%BA%8E/</loc>
   </url>
 </urlset>
