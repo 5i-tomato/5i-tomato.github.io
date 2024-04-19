@@ -2,8 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://5i-tomato.github.io/p/hello-world/</loc>
+    <lastmod>2022-08-27T23:44:58+00:00</lastmod>
+  </url><url>
     <loc>https://5i-tomato.github.io/</loc>
-    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-19T23:52:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -21,7 +24,7 @@
                 />
   </url><url>
     <loc>https://5i-tomato.github.io/categories/</loc>
-    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-19T23:52:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -45,10 +48,10 @@
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://5i-tomato.github.io/post/</loc>
-    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-19T23:52:00+00:00</lastmod>
   </url><url>
     <loc>https://5i-tomato.github.io/tags/</loc>
-    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-19T23:52:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -66,10 +69,10 @@
                 />
   </url><url>
     <loc>https://5i-tomato.github.io/tags/%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-19T23:52:00+00:00</lastmod>
   </url><url>
     <loc>https://5i-tomato.github.io/categories/%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-19T23:52:00+00:00</lastmod>
   </url><url>
     <loc>https://5i-tomato.github.io/tags/minecraft/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
@@ -83,8 +86,11 @@
     <loc>https://5i-tomato.github.io/tags/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://5i-tomato.github.io/p/hello-world/</loc>
-    <lastmod>2022-07-22T11:11:11+00:00</lastmod>
+    <loc>https://5i-tomato.github.io/tags/java/</loc>
+    <lastmod>2024-04-19T23:52:00+00:00</lastmod>
+  </url><url>
+    <loc>https://5i-tomato.github.io/p/java-learning/</loc>
+    <lastmod>2024-04-19T23:52:00+00:00</lastmod>
   </url><url>
     <loc>https://5i-tomato.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>

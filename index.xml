@@ -8,6 +8,15 @@
         <language>zh-cn</language>
         <copyright>Tomato</copyright>
         <lastBuildDate>Thu, 18 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://5i-tomato.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>[置顶] Hello, World!</title>
+        <link>https://5i-tomato.github.io/p/hello-world/</link>
+        <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://5i-tomato.github.io/p/hello-world/</guid>
+        <description>&lt;img src="https://5i-tomato.github.io/p/hello-world/1.jpg" alt="Featured image of post [置顶] Hello, World!" /&gt;&lt;p&gt;Hello, world!&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Git学习随笔</title>
         <link>https://5i-tomato.github.io/p/git-learning/</link>
         <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
@@ -574,13 +583,101 @@
 </description>
         </item>
         <item>
-        <title>Hello, World!</title>
-        <link>https://5i-tomato.github.io/p/hello-world/</link>
-        <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
+        <title>JavaSE学习随笔</title>
+        <link>https://5i-tomato.github.io/p/java-learning/</link>
+        <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
         
-        <guid>https://5i-tomato.github.io/p/hello-world/</guid>
-        <description>&lt;img src="https://5i-tomato.github.io/p/hello-world/1.jpg" alt="Featured image of post Hello, World!" /&gt;&lt;p&gt;Hello, world!&lt;/p&gt;
-</description>
+        <guid>https://5i-tomato.github.io/p/java-learning/</guid>
+        <description>&lt;img src="https://5i-tomato.github.io/p/java-learning/java.png" alt="Featured image of post JavaSE学习随笔" /&gt;&lt;h1 id=&#34;java-学习随笔&#34;&gt;
+    &lt;a href=&#34;#java-%e5%ad%a6%e4%b9%a0%e9%9a%8f%e7%ac%94&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    Java 学习随笔
+&lt;/h1&gt;&lt;blockquote&gt;
+&lt;h2 id=&#34;前言&#34;&gt;
+    &lt;a href=&#34;#%e5%89%8d%e8%a8%80&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    前言
+&lt;/h2&gt;&lt;p&gt;（前言部分于2024.04.19补充）&lt;/p&gt;
+&lt;p&gt;学习 Java 编程是最早是在第一波疫情期间在家上网课时，当时上网课没认真听，想着总不能一事无成，就打算学习一种编程语言，正好当时（包括现在）沉迷于Minecraft: Java Edition，就选择了 Java ，虽然没用上（bushi）。更重要的是认识了一位正好在学Java基础的前辈，就在她的指引下学习了浙大翁恺的课程&lt;a class=&#34;link&#34; href=&#34;https://www.icourse163.org/course/0809ZJU013-1001541001&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;《零基础学Java语言》&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;计算&#34;&gt;
+    &lt;a href=&#34;#%e8%ae%a1%e7%ae%97&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    计算
+&lt;/h2&gt;&lt;h3 id=&#34;计算机与编程语言&#34;&gt;
+    &lt;a href=&#34;#%e8%ae%a1%e7%ae%97%e6%9c%ba%e4%b8%8e%e7%bc%96%e7%a8%8b%e8%af%ad%e8%a8%80&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    计算机与编程语言
+&lt;/h3&gt;&lt;h3 id=&#34;第一个java程序&#34;&gt;
+    &lt;a href=&#34;#%e7%ac%ac%e4%b8%80%e4%b8%aajava%e7%a8%8b%e5%ba%8f&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    第一个Java程序
+&lt;/h3&gt;&lt;h3 id=&#34;变量与计算&#34;&gt;
+    &lt;a href=&#34;#%e5%8f%98%e9%87%8f%e4%b8%8e%e8%ae%a1%e7%ae%97&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    变量与计算
+&lt;/h3&gt;&lt;h3 id=&#34;浮点数计算&#34;&gt;
+    &lt;a href=&#34;#%e6%b5%ae%e7%82%b9%e6%95%b0%e8%ae%a1%e7%ae%97&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    浮点数计算
+&lt;/h3&gt;&lt;h2 id=&#34;判断&#34;&gt;
+    &lt;a href=&#34;#%e5%88%a4%e6%96%ad&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    判断
+&lt;/h2&gt;&lt;h3 id=&#34;比较&#34;&gt;
+    &lt;a href=&#34;#%e6%af%94%e8%be%83&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    比较
+&lt;/h3&gt;&lt;h3 id=&#34;判断-1&#34;&gt;
+    &lt;a href=&#34;#%e5%88%a4%e6%96%ad-1&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    判断
+&lt;/h3&gt;&lt;h3 id=&#34;分支&#34;&gt;
+    &lt;a href=&#34;#%e5%88%86%e6%94%af&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    分支
+&lt;/h3&gt;&lt;h3 id=&#34;判断语句常见错误&#34;&gt;
+    &lt;a href=&#34;#%e5%88%a4%e6%96%ad%e8%af%ad%e5%8f%a5%e5%b8%b8%e8%a7%81%e9%94%99%e8%af%af&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    判断语句常见错误
+&lt;/h3&gt;&lt;h2 id=&#34;循环&#34;&gt;
+    &lt;a href=&#34;#%e5%be%aa%e7%8e%af&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    循环
+&lt;/h2&gt;&lt;h3 id=&#34;循环-1&#34;&gt;
+    &lt;a href=&#34;#%e5%be%aa%e7%8e%af-1&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    循环
+&lt;/h3&gt;&lt;h2 id=&#34;循环控制&#34;&gt;
+    &lt;a href=&#34;#%e5%be%aa%e7%8e%af%e6%8e%a7%e5%88%b6&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    循环控制
+&lt;/h2&gt;&lt;h3 id=&#34;for-循环&#34;&gt;
+    &lt;a href=&#34;#for-%e5%be%aa%e7%8e%af&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    for 循环
+&lt;/h3&gt;&lt;h3 id=&#34;循环控制-1&#34;&gt;
+    &lt;a href=&#34;#%e5%be%aa%e7%8e%af%e6%8e%a7%e5%88%b6-1&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    循环控制
+&lt;/h3&gt;&lt;h2 id=&#34;数组&#34;&gt;
+    &lt;a href=&#34;#%e6%95%b0%e7%bb%84&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    数组
+&lt;/h2&gt;&lt;h3 id=&#34;数组-1&#34;&gt;
+    &lt;a href=&#34;#%e6%95%b0%e7%bb%84-1&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    数组
+&lt;/h3&gt;&lt;h3 id=&#34;数组计算&#34;&gt;
+    &lt;a href=&#34;#%e6%95%b0%e7%bb%84%e8%ae%a1%e7%ae%97&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    数组计算
+&lt;/h3&gt;&lt;h3 id=&#34;二维数组&#34;&gt;
+    &lt;a href=&#34;#%e4%ba%8c%e7%bb%b4%e6%95%b0%e7%bb%84&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    二维数组
+&lt;/h3&gt;&lt;h2 id=&#34;使用对象&#34;&gt;
+    &lt;a href=&#34;#%e4%bd%bf%e7%94%a8%e5%af%b9%e8%b1%a1&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    使用对象
+&lt;/h2&gt;&lt;h3 id=&#34;字符类型&#34;&gt;
+    &lt;a href=&#34;#%e5%ad%97%e7%ac%a6%e7%b1%bb%e5%9e%8b&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    字符类型
+&lt;/h3&gt;&lt;h3 id=&#34;包裹类型&#34;&gt;
+    &lt;a href=&#34;#%e5%8c%85%e8%a3%b9%e7%b1%bb%e5%9e%8b&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    包裹类型
+&lt;/h3&gt;&lt;h3 id=&#34;字符串&#34;&gt;
+    &lt;a href=&#34;#%e5%ad%97%e7%ac%a6%e4%b8%b2&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    字符串
+&lt;/h3&gt;&lt;h2 id=&#34;函数&#34;&gt;
+    &lt;a href=&#34;#%e5%87%bd%e6%95%b0&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    函数
+&lt;/h2&gt;&lt;h3 id=&#34;函数定义与调用&#34;&gt;
+    &lt;a href=&#34;#%e5%87%bd%e6%95%b0%e5%ae%9a%e4%b9%89%e4%b8%8e%e8%b0%83%e7%94%a8&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    函数定义与调用
+&lt;/h3&gt;&lt;h3 id=&#34;函数参数与函数内的调用&#34;&gt;
+    &lt;a href=&#34;#%e5%87%bd%e6%95%b0%e5%8f%82%e6%95%b0%e4%b8%8e%e5%87%bd%e6%95%b0%e5%86%85%e7%9a%84%e8%b0%83%e7%94%a8&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    函数参数与函数内的调用
+&lt;/h3&gt;</description>
         </item>
         <item>
         <title>Archives</title>
