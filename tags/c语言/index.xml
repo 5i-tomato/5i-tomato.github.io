@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>C语言 on 番茄炒西红柿</title>
+        <link>https://5i-tomato.github.io/tags/c%E8%AF%AD%E8%A8%80/</link>
+        <description>Recent content in C语言 on 番茄炒西红柿</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Tomato</copyright>
+        <lastBuildDate>Wed, 19 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://5i-tomato.github.io/tags/c%E8%AF%AD%E8%A8%80/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>C语言学习随笔</title>
+        <link>https://5i-tomato.github.io/p/c-learning/</link>
+        <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://5i-tomato.github.io/p/c-learning/</guid>
+        <description>&lt;img src="https://5i-tomato.github.io/p/c-learning/c.png" alt="Featured image of post C语言学习随笔" /&gt;&lt;h1 id=&#34;c语言学习随笔&#34;&gt;
+    &lt;a href=&#34;#c%e8%af%ad%e8%a8%80%e5%ad%a6%e4%b9%a0%e9%9a%8f%e7%ac%94&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    C语言学习随笔
+&lt;/h1&gt;&lt;blockquote&gt;
+&lt;h2 id=&#34;前言&#34;&gt;
+    &lt;a href=&#34;#%e5%89%8d%e8%a8%80&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    前言
+&lt;/h2&gt;&lt;p&gt;上大学后经历了一个学期，也是在疫情中度过，每天都是核酸、打卡……  浑浑噩噩。一转眼过了一个学期，也习惯了大学的节奏，想着再学一学新东西，便选择了学习 C 语言。&lt;/p&gt;
+&lt;p&gt;（哈哈，有 Java 基础还是快不少）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;基础语法&#34;&gt;
+    &lt;a href=&#34;#%e5%9f%ba%e7%a1%80%e8%af%ad%e6%b3%95&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    基础语法
+&lt;/h2&gt;</description>
+        </item>
+        
+    </channel>
+</rss>
