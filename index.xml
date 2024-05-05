@@ -7,7 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Tomato</copyright>
-        <lastBuildDate>Sat, 27 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://5i-tomato.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 05 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://5i-tomato.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>[置顶] Hello, World!</title>
         <link>https://5i-tomato.github.io/p/hello-world/</link>
         <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
@@ -15,6 +15,154 @@
         <guid>https://5i-tomato.github.io/p/hello-world/</guid>
         <description>&lt;img src="https://5i-tomato.github.io/p/hello-world/1.jpg" alt="Featured image of post [置顶] Hello, World!" /&gt;&lt;p&gt;Hello, world!&lt;/p&gt;
 </description>
+        </item>
+        <item>
+        <title>Block Infinite Team 信息公开</title>
+        <link>https://5i-tomato.github.io/p/server-intro/</link>
+        <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://5i-tomato.github.io/p/server-intro/</guid>
+        <description>&lt;h2 id=&#34;关于我们&#34;&gt;
+    &lt;a href=&#34;#%e5%85%b3%e4%ba%8e%e6%88%91%e4%bb%ac&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    关于我们
+&lt;/h2&gt;&lt;h2 id=&#34;信息公开&#34;&gt;
+    &lt;a href=&#34;#%e4%bf%a1%e6%81%af%e5%85%ac%e5%bc%80&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    信息公开
+&lt;/h2&gt;&lt;h3 id=&#34;服务器核心&#34;&gt;
+    &lt;a href=&#34;#%e6%9c%8d%e5%8a%a1%e5%99%a8%e6%a0%b8%e5%bf%83&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    服务器核心
+&lt;/h3&gt;&lt;p&gt;本服务器使用&lt;code&gt;fabric&lt;/code&gt;作为服务器核心，并在此基础上使用&lt;code&gt;mcdreforged&lt;/code&gt;守护服务器进程，实现插件挂载。&lt;/p&gt;
+&lt;h3 id=&#34;插件列表&#34;&gt;
+    &lt;a href=&#34;#%e6%8f%92%e4%bb%b6%e5%88%97%e8%a1%a8&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    插件列表
+&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;名称&lt;/th&gt;
+&lt;th&gt;维护者&lt;/th&gt;
+&lt;th&gt;功能&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://mcdreforged.com/zh-CN/plugin/beep&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Beep&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Fallen-Breath&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Fallen_Breath&lt;/a&gt;, &lt;a class=&#34;link&#34; href=&#34;https://github.com/LucunJi&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;LucunJi&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;@某人，@ all可作用于所有玩家。使用两个@@小心被打&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://mcdreforged.com/zh-CN/plugin/daycount_nbt&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;DayCount NBT&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/alex3236&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Alex3236&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;获取和输出服务器开服时间&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://mcdreforged.com/zh-CN/plugin/here&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Here&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Fallen-Breath&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Fallen_Breath&lt;/a&gt;, &lt;a class=&#34;link&#34; href=&#34;https://github.com/nathan21hz&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;nathan21hz&lt;/a&gt;, &lt;a class=&#34;link&#34; href=&#34;https://github.com/Ra1ny-Yuki&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Ra1ny_Yuki&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;显示坐标并高亮玩家&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://mcdreforged.com/zh-CN/plugin/location_marker&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Location Marker&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Fallen-Breath&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Fallen_Breath&lt;/a&gt;, &lt;a class=&#34;link&#34; href=&#34;https://github.com/Van-Nya&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Van_Involution&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;一个服务端共享路标点管理器&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://mcdreforged.com/zh-CN/plugin/minecraft_data_api&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Minecraft Data API&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Fallen-Breath&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Fallen_Breath&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;一个用获得玩家信息等数据的的 API&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://mcdreforged.com/zh-CN/plugin/prime_backup&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Prime Backup&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Fallen-Breath&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Fallen_Breath&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;一个强大的MCDR备份插件，一套先进的Minecraft存档备份解决方案&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://mcdreforged.com/zh-CN/plugin/mcd_seen&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Seen&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Pandaria98&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Pandaria&lt;/a&gt;, &lt;a class=&#34;link&#34; href=&#34;https://github.com/Fallen-Breath&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Fallen_Breath&lt;/a&gt;, &lt;a class=&#34;link&#34; href=&#34;https://github.com/Ra1ny-Yuki&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Ra1ny_Yuki&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Show laziness rank easily&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://mcdreforged.com/zh-CN/plugin/stats_helper&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Stats Helper&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Fallen-Breath&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Fallen_Breath&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;一个 Minecraft 统计信息助手&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://mcdreforged.com/zh-CN/plugin/mcd_task&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Task&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Pandaria98&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Pandaria&lt;/a&gt;, &lt;a class=&#34;link&#34; href=&#34;https://github.com/Fallen-Breath&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Fallen_Breath&lt;/a&gt;, &lt;a class=&#34;link&#34; href=&#34;https://github.com/Ra1ny-Yuki&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Ra1ny_Yuki&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;用于展示进行中的工程任务的插件&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;mod-列表&#34;&gt;
+    &lt;a href=&#34;#mod-%e5%88%97%e8%a1%a8&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    mod 列表
+&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;名称&lt;/th&gt;
+&lt;th&gt;主要维护者&lt;/th&gt;
+&lt;th&gt;版本&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/FabricMC/fabric&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Fabric API&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/FabricMC/fabric/commits?author=modmuss50&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;modmuss50&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;0.97.8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/gnembon/fabric-carpet&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Fabric Carpet&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/gnembon&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;gnembon&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;1.4.141&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/TISUnion/Carpet-TIS-Addition&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Carpet TIS Addition&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/TISUnion/Carpet-TIS-Addition/commits?author=Fallen-Breath&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Fallen-Breath&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;1.59&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/CaffeineMC/lithium-fabric&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Lithium (for Fabric)&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/CaffeineMC/lithium-fabric/commits?author=2No2Name&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;2No2Name&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;0.12.3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;加入我们&#34;&gt;
+    &lt;a href=&#34;#%e5%8a%a0%e5%85%a5%e6%88%91%e4%bb%ac&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
+    加入我们
+&lt;/h2&gt;</description>
         </item>
         <item>
         <title>CS 学习随笔</title>
