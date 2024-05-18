@@ -17,7 +17,7 @@
 </description>
         </item>
         <item>
-        <title>Block Infinite Team 信息公开</title>
+        <title>Block Infinite Team 介绍</title>
         <link>https://5i-tomato.github.io/p/server-intro/</link>
         <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
         
@@ -31,7 +31,7 @@
 &lt;/h2&gt;&lt;h3 id=&#34;服务器核心&#34;&gt;
     &lt;a href=&#34;#%e6%9c%8d%e5%8a%a1%e5%99%a8%e6%a0%b8%e5%bf%83&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     服务器核心
-&lt;/h3&gt;&lt;p&gt;本服务器使用&lt;code&gt;fabric&lt;/code&gt;作为服务器核心，并在此基础上使用&lt;code&gt;mcdreforged&lt;/code&gt;守护服务器进程，实现插件挂载。&lt;/p&gt;
+&lt;/h3&gt;&lt;p&gt;本服务器使用&lt;code&gt;fabric&lt;/code&gt;作为服务器核心，并在此基础上使用&lt;code&gt;mcdreforged&lt;/code&gt;守护服务器进程，实现插件挂载。此外，还使用了&lt;code&gt;velocity&lt;/code&gt;作为反向代理核心。&lt;/p&gt;
 &lt;h3 id=&#34;插件列表&#34;&gt;
     &lt;a href=&#34;#%e6%8f%92%e4%bb%b6%e5%88%97%e8%a1%a8&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     插件列表
@@ -162,7 +162,37 @@
 &lt;h2 id=&#34;加入我们&#34;&gt;
     &lt;a href=&#34;#%e5%8a%a0%e5%85%a5%e6%88%91%e4%bb%ac&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     加入我们
-&lt;/h2&gt;</description>
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Block Infinite Team (BIT) Minecraft&lt;/strong&gt; &lt;strong&gt;服务器公告&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;欢迎来到 Block Infinite Team (简称 BIT) 服务器！我们很高兴能与你分享这个独特的 Minecraft 世界，期待与你一同探索、建设和创新。以下是一些重要信息和规则，请所有玩家仔细阅读并遵守。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;服务器信息：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;服务器名称&lt;/strong&gt;: Block Infinite Team (BIT)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;服务器地址&lt;/strong&gt;: mc.itomato.top&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;主要玩法&lt;/strong&gt;: 生存、建筑、红石&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;服务器规则：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;严禁使用作弊手段破坏游戏平衡&lt;/strong&gt;：包括但不限于矿物透视、boatfly，以及魔改的 mod、资源包等。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;尊重他人&lt;/strong&gt;：严禁人身攻击、辱骂、讥讽他人。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;严禁讨论政治话题&lt;/strong&gt;：在服务器有关的交流平台上，不允许讨论任何政治话题。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;尊重他人作品&lt;/strong&gt;：不得恶意损毁他人作品。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;违规处理：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;任何违反以上规则的行为，将由群内成员讨论投票决定是否进行封禁处理。超过 1/5 的成员投票通过封禁即可生效（服务器管理员记作两票）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;活动与事件：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;本服务器会不定期举行各种活动，例如庆祝传统节日等，欢迎大家积极参与。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;联系方式：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;服务器QQ群：785308242&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;希望大家在 Block Infinite Team (BIT) 服务器度过愉快的时光，与我们一同创造一个美好的 Minecraft 世界！&lt;/p&gt;
+&lt;p&gt;祝游戏愉快！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Block Infinite Team&lt;/strong&gt; &lt;strong&gt;管理团队&lt;/strong&gt;&lt;/p&gt;
+</description>
         </item>
         <item>
         <title>Fold Craft Launcher 教程</title>
@@ -386,7 +416,7 @@ $$&lt;/p&gt;
         <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
         
         <guid>https://5i-tomato.github.io/p/git-learning/</guid>
-        <description>&lt;img src="https://5i-tomato.github.io/p/git-learning/3.png" alt="Featured image of post Git学习随笔" /&gt;&lt;h1 id=&#34;git操作速记&#34;&gt;
+        <description>&lt;img src="https://5i-tomato.github.io/p/git-learning/git.png" alt="Featured image of post Git学习随笔" /&gt;&lt;h1 id=&#34;git操作速记&#34;&gt;
     &lt;a href=&#34;#git%e6%93%8d%e4%bd%9c%e9%80%9f%e8%ae%b0&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     Git操作速记
 &lt;/h1&gt;&lt;p&gt;什么是Git？&lt;/p&gt;
@@ -1884,34 +1914,7 @@ $$&lt;/p&gt;
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://5i-tomato.github.io/links/</guid>
-        <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
-&lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;9
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;links&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub is the world&amp;#39;s largest software development platform.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.com&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://www.typescriptlang.org&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;ts-logo-128.jpg&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;
-</description>
+        <description></description>
         </item>
         <item>
         <title>Search</title>
